@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
  <div>
-   <a href="https://github.com/bruno">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/https-bruno">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https-bruno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
